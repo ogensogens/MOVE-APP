@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.1",
+    "mongose": "^0.0.2-security",
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "name": "movie-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogensogens/MOVE-APP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ogensogens/MOVE-APP/issues"
+  },
+  "homepage": "https://github.com/ogensogens/MOVE-APP#readme",
+  "description": ""
+}
